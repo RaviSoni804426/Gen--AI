@@ -1,0 +1,47 @@
+ipykernel
+# === Core Deep Learning Frameworks ===
+torch>=1.12
+torchvision
+torchaudio
+tensorflow>=2.10
+
+# === Hugging Face Ecosystem ===
+transformers
+datasets
+accelerate
+sentence-transformers
+tokenizers
+safetensors
+huggingface_hub
+
+# === Diffusion Models / Image Generation ===
+diffusers
+opencv-python
+matplotlib
+
+# === NLP Tools ===
+nltk
+spacy
+
+# === Prompt Engineering & LLM Apps ===
+langchain
+openai
+llama-index
+chromadb
+
+# === Text-to-Speech and Audio ===
+TTS
+speechrecognition
+pydub
+
+# === Fine-Tuning and Optimization ===
+peft
+trl
+deepspeed
+xformers
+bitsandbytes
+
+# === Visualization and Tracking ===
+tensorboard
+wandb
+seaborn
